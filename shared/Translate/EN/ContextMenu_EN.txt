@@ -935,6 +935,37 @@ ContextMenu_Job_Doctor = "Doctor",
 	ContextMenu_speech_IdleChatter138 = "I just watched a zombie movie yesterday, and I'm already in the movie today.", 
 	ContextMenu_speech_IdleChatter139 = "'I don't have answers. All you can do is find a way to hide.'",
 	ContextMenu_speech_IdleChatter140 = "I'm a survivor. I survived Angola, I survived the Special Period, and this thing that came afterward. And I will survive this."
+	ContextMenu_speech_IdleChatter141 = "Man what I'd give for a good f*ck right now..."
+    ContextMenu_speech_IdleChatter142 = "I heard that everyone who dies becomes one of... them."
+    ContextMenu_speech_IdleChatter143 = "I just want one day where we don't have stiff jaws to worry about."
+    ContextMenu_speech_IdleChatter144 = "Think our base is secure enough against the stiff jaws?"
+    ContextMenu_speech_IdleChatter145 = "Sometimes I wonder... no, nevermind."
+    ContextMenu_speech_IdleChatter146 = "You know, if zombies exist... I wonder if there are any other supernatural creature that exists."
+    ContextMenu_speech_IdleChatter147 = "If I die and become one of those things, make sure to end me quick. I don't want to be one of them."
+    ContextMenu_speech_IdleChatter148 = "You want to know what I miss? Food delivery...  That's what I miss."
+    ContextMenu_speech_IdleChatter149 = "I miss being able to turn on the radio without fear of attracting those things."
+    ContextMenu_speech_IdleChatter150 = "I hope our base will be good enough that we can be self-sufficient for a long time."
+    ContextMenu_speech_IdleChatter151 = "Do you think there are other survivors out there?"
+    ContextMenu_speech_IdleChatter152 = "You ever look at the stars and feel like somewhere out there, we were suppose to be out there exploring?"
+    ContextMenu_speech_IdleChatter153 = "I wonder if this is some cruel joke..."
+    ContextMenu_speech_IdleChatter154 = "I don't think anyone is coming to save us..."
+    ContextMenu_speech_IdleChatter155 = "Did you have anyone... before this that you cared about?  Like family?"
+    ContextMenu_speech_IdleChatter156 = "You're my family now...  It took me a while to say it, but that's how it is now."
+    ContextMenu_speech_IdleChatter157 = "Do you think that a cure might happen?"
+    ContextMenu_speech_IdleChatter158 = "I wonder how many of these stiff jaws remember who they were before they turned."
+    ContextMenu_speech_IdleChatter159 = "Maybe things won't be so bad....  Less noise now without so many people doing the hustle and bustle of everyday life..."
+    ContextMenu_speech_IdleChatter160 = "Somehow I feel like everything is going to be okay. Maybe that's just wishful thinking."
+    ContextMenu_speech_IdleChatter161 = "Somehow I feel like everything is going to be okay."
+    ContextMenu_speech_IdleChatter162 = "You ever seen a shooting star?"
+    ContextMenu_speech_IdleChatter163 = "You know, with this horror spreading across Kentucky... I can't help but to notice that the sky at night is brighter."
+    ContextMenu_speech_IdleChatter164 = "Without all the lights on at night, you can actually see the milkyway..."
+    ContextMenu_speech_IdleChatter165 = "Maybe someday we'll look back on this and think 'gee, it's not as bad as we thought it was.'"
+    ContextMenu_speech_IdleChatter166 = "Who knows what this means... Maybe this was for the best...  But maybe we were meant to die like this in the end."
+    ContextMenu_speech_IdleChatter167 = "Hah, imagine, if my dad were to see me now...  He'd still be harping on my ass about how I use an axe."
+    ContextMenu_speech_IdleChatter168 = "Pffft, mom used to get on me about cleaning, if she were to see this, she'd be shocked at how clean I've been."
+    ContextMenu_speech_IdleChatter169 = "*shrugs* I don't know what to say right now."
+    ContextMenu_speech_IdleChatter170 = "Pssst, don't forget to take a bath once in a while.  Don't wanna get sick right?"
+
 
 
     ContextMenu_speech_PreZombieChatter1 = "La di da di da.",
